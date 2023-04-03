@@ -1,0 +1,1 @@
+@import"https://fonts.googleapis.com/css2?family=Fredoka&display=swap";body{background-color:#333;font-family:Fredoka,cursive;color:#fff}.column{display:flex;flex-direction:column}.column>div:nth-child(odd){background-color:#636363}.column>div:nth-child(even){background-color:#acacac}
